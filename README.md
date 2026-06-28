@@ -1,7 +1,7 @@
 ### Olá amigos! Eu sou João Bruno 👋
 
-- 🔭 Sou desenvolvedor FullStack, realizo atividades acadêmicas em Cálculo 1, 2 e 3, além de realizar projetos acadêmicos de programação ;
-- 🌱 DevOps
+- 🔭 Sou desenvolvedor FullStack, realizo atividades acadêmicas em Cálculo 1, 2 e 3, além de realizar projetos acadêmicos de programação;
+- 🌱 DevOps;
 - 📫 Contate-me no e-mail: brunofreitas.93@hotmail.com & inforcomp.serv@gmail.com | Whatsapp: (85) 9 8879-1808
 
 <div align="center">
